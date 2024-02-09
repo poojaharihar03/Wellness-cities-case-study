@@ -7,6 +7,18 @@ The distribution of wellness centers and healthcare resources across different r
 # Dataset:
 The dataset contains information about wellness centers, including their city, category (e.g., Ayurvedic, Allopathic), the number of doctors, and geographical coordinates (latitude and longitude). 
 It is available in the Open Government Data (OGD) Platform India data.gov.in
+# Analysis:
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/c1ee7ffb-e8ba-4c07-bfc5-5702a593ea76)
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/a48198c9-de21-49b3-b54b-d8e88295b989)
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/6c9a6942-1d68-45fe-a643-b71d9b735014)
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/2057c386-ee87-44d3-987f-338efbefcfd3)
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/565d21fc-f9b6-4ccd-886f-6182b75e6453)
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/bef75608-fa6a-448a-b2d5-cc75d9a14891)
 
 # Observations:
 
