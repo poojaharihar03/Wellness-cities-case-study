@@ -35,11 +35,15 @@ Identified categories with the highest number of doctors and specialties that ma
 Plotted the locations of wellness centers on a map, with marker sizes representing the number of doctors.
 Explored spatial patterns and identified regions with a higher concentration of healthcare resources.
 
+# The major observation we can see is that the wellness centers and resources are only in the metropolitan centers.
 # Proposed Solution:
 
-* Expansion of Wellness Centers to Rural Areas:
+* Expansion of Wellness Centers to Rural Areas:*
 Develop strategies to incentivize the establishment of wellness centers in rural areas, such as providing subsidies or tax incentives for healthcare providers.
 Collaborate with local communities and stakeholders to identify suitable locations for new wellness centers and ensure community involvement in healthcare planning.
+
+*Attractive benefits for doctors to serve in rural areas*
+Implement attractive benefits and incentives for doctors to practice in rural areas. This could include financial incentives such as higher salaries or loan forgiveness programs, as well as non-financial incentives such as opportunities for professional development, flexible work arrangements, and improved access to housing and amenities. By making rural practice more appealing to healthcare professionals, we can address workforce shortages and improve access to healthcare services in underserved areas.
 
 # Conclusion:
 Expanding wellness centers to rural areas is essential for improving healthcare access and reducing disparities in healthcare delivery. By addressing the challenges associated with rural healthcare access and implementing targeted interventions, policymakers and healthcare stakeholders can work towards ensuring equitable access to healthcare services for all individuals, regardless of their geographical location.
