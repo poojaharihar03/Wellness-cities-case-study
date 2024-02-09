@@ -2,7 +2,7 @@
 Analysis of Wellness Centers and Healthcare Resource Allocation
 
 # Problem Statement:
-The distribution of wellness centers and healthcare resources across different regions plays a crucial role in ensuring equitable access to healthcare services. However, disparities in resource allocation and uneven distribution of healthcare facilities can lead to gaps in healthcare access and quality of care. In this case study, we aim to analyze the distribution of wellness centers, particularly focusing on the number of doctors across different categories and geographical regions. The objective is to identify any disparities in healthcare resource allocation and propose potential solutions for more equitable distribution.
+The distribution of wellness centers and healthcare resources across different regions plays a crucial role in ensuring equitable access to healthcare services. However,there are uneven distribution of healthcare facilities can lead to gaps in healthcare access and quality of care. In this case study, we aim to analyze the distribution of wellness centers, particularly focusing on the number of doctors across different categories and geographical regions. The objective is to identify any disparities in healthcare resource allocation and propose potential solutions for more equitable distribution.
 
 # Dataset:
 The dataset contains information about wellness centers, including their city, category (e.g., Ayurvedic, Allopathic), the number of doctors, and geographical coordinates (latitude and longitude). 
