@@ -42,6 +42,7 @@ Plotted the locations of wellness centers on a map, with marker sizes representi
 Explored spatial patterns and identified regions with a higher concentration of healthcare resources.
 
 *Other observations:*
+
 - Most wellness centers and resources are in metropolitan cities in India
 - Hyderabad has the most number of doctors
 - Alopathic is the most common category practiced in medicine in top Cities
