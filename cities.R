@@ -1,6 +1,7 @@
 #Load required libraries
 library(ggplot2)  # for data visualization
-library(leaflet) 
+library(leaflet)
+library(dplyr)
 
 #Read the .csv file
 df <- read.csv("data.csv")
@@ -10,6 +11,10 @@ head(df,5)
 
 #we see that wellnessAddress has NA so removing the column
 df <- subset(df, select = -c(wellnessCentreAddress))
+
+#we see that there is one row with lat and longi as 0 removing it as it is incorrect
+df <- df %>%
+  filter(latitude != 0 | longitude != 0)
 
 #seeing the updated data df
 head(df,5)
@@ -45,7 +50,7 @@ ggplot(top10_cities, aes(x = reorder(cityName, -doctorCount), y = doctorCount)) 
 
 ##Aim= to find the Doctors by Category within Top 10 Cities
 # Calculate total number of doctors for each category within the top 10 cities
-category_doctor_counts_top10 <- aggregate(doctorCount ~ category, df[df$cityName %in% top_10_cities$cityName, ], sum)
+category_doctor_counts_top10 <- aggregate(doctorCount ~ category, df[df$cityName %in% top10_cities$cityName, ], sum)
 
 # Visualize distribution of doctors among different categories
 ggplot(category_doctor_counts_top10, aes(x = category, y = doctorCount)) +
@@ -62,11 +67,11 @@ ggplot(category_doctor_counts, aes(x = reorder(category, -doctorCount), y = doct
   geom_bar(stat = "identity", fill = "skyblue") +
   labs(title = "Distribution of Doctors by Wellness Center Category",
        x = "Category", y = "Number of Doctors") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Rotate x-axis labels for better readability
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
 
 
 ##Aim= to have locations of top 10 cities
-df_top10 <- df[df$cityName %in% top_10_cities$cityName, ]
+df_top10 <- df[df$cityName %in% top10_cities$cityName, ]
 
 leaflet() %>%
   addTiles() %>%
