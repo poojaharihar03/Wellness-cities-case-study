@@ -2,23 +2,29 @@
 Analysis of Wellness Centers and Healthcare Resource Allocation
 
 # Problem Statement:
-The distribution of wellness centers and healthcare resources across different regions plays a crucial role in ensuring equitable access to healthcare services. However,there are uneven distribution of healthcare facilities can lead to gaps in healthcare access and quality of care. In this case study, we aim to analyze the distribution of wellness centers, particularly focusing on the number of doctors across different categories and geographical regions. The objective is to identify any disparities in healthcare resource allocation and propose potential solutions for more equitable distribution.
+The distribution of wellness centers and healthcare resources across different regions is crucial in ensuring equitable access to healthcare services. However, the uneven distribution of healthcare facilities can lead to gaps in healthcare access and quality of care. In this case study, we aim to analyze the distribution of wellness centers, particularly focusing on the number of doctors across different categories and geographical regions. The objective is to identify any disparities in healthcare resource allocation and propose potential solutions for more equitable distribution.
 
 # Dataset:
 The dataset contains information about wellness centers, including their city, category (e.g., Ayurvedic, Allopathic), the number of doctors, and geographical coordinates (latitude and longitude). 
 It is available in the Open Government Data (OGD) Platform India data.gov.in
 # Analysis:
-![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/c1ee7ffb-e8ba-4c07-bfc5-5702a593ea76)
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/63947588-235f-43b8-9045-25418185f791)
 
-![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/a48198c9-de21-49b3-b54b-d8e88295b989)
 
-![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/6c9a6942-1d68-45fe-a643-b71d9b735014)
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/f7dd27ba-3d12-4107-8cd4-3a338d395a72)
 
-![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/2057c386-ee87-44d3-987f-338efbefcfd3)
 
-![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/565d21fc-f9b6-4ccd-886f-6182b75e6453)
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/bf602da6-91f3-4511-bd03-13f5672eeabb)
 
-![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/bef75608-fa6a-448a-b2d5-cc75d9a14891)
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/e501353b-5e99-498c-b580-b8b90e097449)
+
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/0253e697-3188-4581-a016-e67b0378b0c8)
+
+
+![image](https://github.com/poojaharihar03/Wellness-cities-case-study/assets/88924201/c9473e76-7829-4cd0-865c-11993e5404ed)
+
 
 # Observations:
 
@@ -45,6 +51,12 @@ Collaborate with local communities and stakeholders to identify suitable locatio
 * Attractive benefits for doctors to serve in rural areas:*
 Implement attractive benefits and incentives for doctors to practice in rural areas. This could include financial incentives such as higher salaries or loan forgiveness programs, as well as non-financial incentives such as opportunities for professional development, flexible work arrangements, and improved access to housing and amenities. By making rural practice more appealing to healthcare professionals, we can address workforce shortages and improve access to healthcare services in underserved areas.
 
+*Other observations:*
+- Most wellness centers and resources are in metropolitan cities in India
+- Hyderabad has the most number of doctors
+- Alopathic is the most common category practiced in medicine in top Cities
+
+- 
 # Conclusion:
 Expanding wellness centers to rural areas is essential for improving healthcare access and reducing disparities in healthcare delivery. By addressing the challenges associated with rural healthcare access and implementing targeted interventions, policymakers and healthcare stakeholders can work towards ensuring equitable access to healthcare services for all individuals, regardless of their geographical location.
 
